@@ -1,1 +1,1 @@
-web: herokuAddr=www.hdshow.vip.herokuapp.com npm run start
+web: herokuAddr=fdplayer.herokuapp.com npm run start
